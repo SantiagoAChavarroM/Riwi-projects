@@ -15,3 +15,16 @@ A = 15
 B = 19
 
 print(A+B)
+
+#1.3 pedir datos al usuario
+
+base = float(input("ingrese la base del triángulo: "))
+altura = float(input("ingrese la altura del triángulo: "))
+
+# calcular el área
+area= (base * altura) / 2
+
+print(f"el área del triangulo es: {area}")
+
+# 1.4
+
