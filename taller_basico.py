@@ -59,6 +59,4 @@ edad_futura = edad +10
 
 print(f"En 10 años tendrás {edad_futura} años")
 
-# NIVEL 2
-# 2.7
 

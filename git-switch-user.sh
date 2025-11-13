@@ -1,7 +1,8 @@
 #!/bin/bash
 ============================================
 Git Switch User Script para Linux / macOS
-Cambia rápidamente entre diferentes perfiles de Git.
+Cambia rápidamente entre diferentes perfiles de Git
+para salir cuando quieras con un comando
 ============================================
 Definición de perfiles
 declare -A PROFILES_NAME

@@ -1,3 +1,5 @@
+## Actividad FizzBuzz con time.sleep ##
+
 import time
 for variable in range(1, 101):
 
